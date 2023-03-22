@@ -1,4 +1,4 @@
 ".\Objects\STARTUP.obj",
-".\Objects\Project2.obj" 
+".\Objects\main.obj" 
 TO ".\Objects\Project2" 
 PRINT(".\Listings\Project2.m51")
